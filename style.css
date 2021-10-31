@@ -683,6 +683,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    font-weight: bold;
 }
 
 .h1 {
@@ -774,7 +775,7 @@ h3 {
 }
 
 .tc-white {
-    color: white!important;
+    color: #333333!important;
 }
 
 .btn-atomic-tangerine {
