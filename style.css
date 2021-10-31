@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+h1{color: white;}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -775,7 +775,7 @@ h3 {
 }
 
 .tc-white {
-    color: #333333!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
