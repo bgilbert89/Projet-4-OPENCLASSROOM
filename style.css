@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-h1{color: white;}
+h1{color: #f3976c!important;}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #333333!important;
+    color: #333333;
 }
 
 .container {
@@ -775,8 +775,10 @@ h3 {
 }
 
 .tc-white {
-    color: #f3976c!important;
+    color: #333333;
 }
+
+.parlons{color: #333333!important;}
 
 .btn-atomic-tangerine {
     background: #F3976C;
