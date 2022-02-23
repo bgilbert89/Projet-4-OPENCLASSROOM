@@ -651,11 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-<<<<<<< HEAD
     color: black;
-=======
-    color: #000000;
->>>>>>> 8bc2ccc678556121dc9489f2b330416a8354c953
 }
 
 .container {
@@ -742,11 +738,7 @@ h3 {
 }
 
 .white {
-<<<<<<< HEAD
     color: black!important;
-=======
-    color: #000000!important;
->>>>>>> 8bc2ccc678556121dc9489f2b330416a8354c953
 }
 
 .portfolio-thumb {
@@ -792,11 +784,7 @@ h3 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-<<<<<<< HEAD
     color: black!important;
-=======
-    color: #000000!important;
->>>>>>> 8bc2ccc678556121dc9489f2b330416a8354c953
 }
 
 .btn-atomic-tangerine:hover {
@@ -888,10 +876,8 @@ h3 {
         overflow-x: hidden;
         position: relative;
     }
-    .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
+   
+    
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -900,8 +886,6 @@ h3 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
     }
 }
 
